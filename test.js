@@ -1,2 +1,4 @@
-var value = 1
+var value = 1;
+
+console.log(value);
 

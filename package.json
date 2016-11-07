@@ -3,10 +3,12 @@
   "version": "1.0.0",
   "description": "project organisation tool",
   "main": "test.js",
-  "dependencies": {},
+  "dependencies": {
+    "rubygems": "^1.0.3"
+  },
   "devDependencies": {},
   "scripts": {
-    "test": "test"
+    "test": "./node_modules/mocha/bin/mocha"
   },
   "repository": {
     "type": "git",

@@ -1,0 +1,21 @@
+{
+  "name": "project-organisation-tool",
+  "version": "1.0.0",
+  "description": "project organisation tool",
+  "main": "test.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesyeomans/project-organisation-tool.git"
+  },
+  "author": "james yeomans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesyeomans/project-organisation-tool/issues"
+  },
+  "homepage": "https://github.com/jamesyeomans/project-organisation-tool#readme"
+}

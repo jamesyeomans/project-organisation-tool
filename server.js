@@ -6,6 +6,5 @@ var port = process.env.PORT || 8080;
 var server = http.createServer();
 
 server.listen(port, function(){
-    
-    
+    console.log('connected');    
 });
